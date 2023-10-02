@@ -1,3 +1,5 @@
+🚀 Follow @ www.twitch.tv/novoporodego 😊
+
 # Discord to Twitch Alert Bot
 
 This is a Discord bot that sends an alert to a specified Twitch channel when a user with a linked Twitch account joins a Discord server. It uses the Discord API and Twitch API for this functionality.
